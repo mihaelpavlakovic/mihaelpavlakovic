@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mihaelpavlakovic
 - 👀 I’m interested in frontend web development
-- 🌱 I’m currently learning React.js and from time to time I'm going back to basics like HTML and CSS
+- 🌱 I'm currently immersed in React.js and React Native
 
 <!---
 mihaelpavlakovic/mihaelpavlakovic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
