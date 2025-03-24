@@ -1,4 +1,4 @@
-👋 Hi, I'm Mihael Pavlaković!
+# 👋 Hi, I'm Mihael!  
 🚀 Frontend Web Developer | 🎨 Passionate about UI/UX | 💻 React.js & React Native Enthusiast
 
 🔥 About Me
